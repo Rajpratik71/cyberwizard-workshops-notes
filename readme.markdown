@@ -18,5 +18,5 @@ the javascript language
 * [career advice from Tom](http://thomaslevine.com/!/career-advice)
     ([mirror](career-advice-from-tom.markdown))
 
-....and so much more! Check the list of files above for
-notes on other topics covered.
+Get started in linux commands
+http://www.ee.surrey.ac.uk/Teaching/Unix/
