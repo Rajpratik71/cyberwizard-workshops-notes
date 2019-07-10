@@ -6,11 +6,11 @@
   "dependencies": {
     "body": "^5.1.0",
     "collect-stream": "^1.0.0",
-    "ecstatic": "^0.8.0",
+    "ecstatic": "^2.2.2",
     "routes": "^2.1.0",
     "split2": "^1.0.0",
     "through2": "^2.0.0",
-    "websocket-stream": "^1.5.1"
+    "websocket-stream": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
