@@ -6,7 +6,7 @@
     "choo": "^5.6.2",
     "collect-stream": "^1.2.1",
     "content-addressable-blob-store": "^4.5.1",
-    "ecstatic": "^2.2.1",
+    "ecstatic": "^4.1.4",
     "hypercore": "^6.6.3",
     "hyperdrive": "^9.4.5",
     "hyperlog": "^4.12.1",
