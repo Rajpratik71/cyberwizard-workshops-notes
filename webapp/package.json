@@ -6,7 +6,7 @@
   "dependencies": {
     "body": "^5.1.0",
     "collect-stream": "^1.0.0",
-    "ecstatic": "^2.2.2",
+    "ecstatic": "^4.1.4",
     "routes": "^2.1.0",
     "split2": "^1.0.0",
     "through2": "^2.0.0",
