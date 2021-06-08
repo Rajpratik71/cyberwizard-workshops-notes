@@ -10,7 +10,7 @@
     "routes": "^2.1.0",
     "split2": "^1.0.0",
     "through2": "^2.0.0",
-    "websocket-stream": "^3.0.0"
+    "websocket-stream": "^5.2.0"
   },
   "devDependencies": {},
   "scripts": {
